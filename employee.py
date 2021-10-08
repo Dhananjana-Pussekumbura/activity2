@@ -9,4 +9,4 @@ while True:
         print('After break statement')
     i += 1
 
-print('After while-loop exit')
+print('Exit from the list')
